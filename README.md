@@ -1,5 +1,7 @@
 # Sakura
 
+![preview](preview.png)
+
 Pink/cherry-blossom Omarchy theme with sakura backgrounds.
 
 An [Aether](https://github.com/tobi/aether)-generated theme for [Omarchy](https://omarchy.org).
