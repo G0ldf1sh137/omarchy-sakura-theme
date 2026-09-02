@@ -2,7 +2,7 @@
 
 ![preview](preview.png)
 
-Pink/cherry-blossom Omarchy theme with sakura backgrounds.
+Warm gold-toned Omarchy theme with sakura-photography backgrounds.
 
 An [Aether](https://github.com/tobi/aether)-generated theme for [Omarchy](https://omarchy.org).
 
